@@ -6,7 +6,7 @@ O presente documento tem por finalidade demonstrar a integração com o serviço
 
 ## Estrutura de diretório
 
-O conteúdo será disponibilizado através de um arquivos em XML:
+O conteúdo será disponibilizado através de um arquivos no formato XML:
 
 > Exemplo Estrutura:
 

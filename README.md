@@ -1,3 +1,6 @@
-# Manuais de Sistemas
+# Manuais
 
-Consulte a [wiki](https://github.com/casperlibero/manuais/wiki) para maiores informações.
+Gazeta Esportiva
+----------------
+
+* [Manual de Integração com o Serviço de Conteúdo](/casperlibero/manuais/blob/master/gazetaesportiva/integracao-conteudo/README.md)

@@ -167,18 +167,6 @@ aberto para os editores.
 > Informações adicionais sobre o crédito
 * Ex: Colaborou Machado de Assis.
 
-**Tag:** _imgs_
-> Com esta tag presente, indica que a notícia tem uma ou mais imagens
-
-**Tag:** _img_
-> Contém as informações da imagem. O atributo ID representa um número sequencial que identifica a imagem correspondente. As imagens ficam na raiz da pasta exclusiva.
-
-**Tag:** _legenda_
-> Contém a legenda da imagem (Pode estar nulo).
-
-**Tag:** _autor_
-> Contém o autor da imagem (Pode estar nulo).
-
 **Tag:** _webMaster_
 > Contém o contato do responsável da matéria (Pode estar nulo).
 

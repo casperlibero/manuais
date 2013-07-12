@@ -100,7 +100,6 @@ Exemplo de arquivo XML referente à [notícia](http://www.gazetaesportiva.net/no
   <keywords><![CDATA[GENET, Campeonato Goiano, Goiás, Enderson Moreira, Contratações]]></keywords>
   <author_1/>
   <author_2/>
-  <imgs/>
 </item>
 ```
 

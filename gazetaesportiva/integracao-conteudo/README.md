@@ -104,38 +104,6 @@ Exemplo de arquivo XML referente à [notícia](http://www.gazetaesportiva.net/no
 </item>
 ```
 
-### Notícias com imagens
-Algumas notícias podem conter imagens em qualquer parte do texto principal no seguinte formato.
-
-> Exemplo:
-
-> “Como já está se tornando de costume, **[imagem=1]** a briga pelo título da Fórmula 1 ultrapassou as pistas. Nesta segunda-feira, o inglês Lewis Hamilton acusou o brasileiro Felipe Massa de provocar o acidente envolvendo os dois carros no GP do Japão, nesse domingo. **[imagem=2]**”
-
-Onde, **[imagem=1]** e **[imagem=2]** correspondem às imagens que, caso a nota tenha, ficam armazenadas na raiz da sua pasta exclusiva no formato **[número da notícia]_[número_sequencial].extensão**
-
-> Exemplo para a nota de número **127**.xml
-
-```xml
-<imgs>
-  <img id="1">
-    <legenda><![CDATA[legenda da foto 1]]></legenda>
-    <autor><![CDATA[autor da foto 1]]></autor>
-  </img>
-  <img id="2">
-    <legenda><![CDATA[legenda da foto 2]]></legenda>
-    <autor><![CDATA[autor da foto 2]]></autor>
-  </img>
-```
-
-Na pasta raiz, haveria um arquivo com o nome **127_1**.jpg e outro arquivo com o nome **127_2**.jpg
-Se a nota for excluída, os arquivos de imagens seguem o mesmo padrão da nota para exclusão:
-
-* 127_1-del.jpg
-* 127_2-del.jpg
-
-É de responsabilidade do cliente armazenar e anexar as imagens às suas respectivas notícias, da forma que melhor lhe
-for conveniente mas respeitando a sua localização dentro do texto principal.
-
 ### Detalhamento das tags:
 
 **Tag principal:** _item_

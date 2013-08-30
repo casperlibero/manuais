@@ -1,4 +1,4 @@
-# Manual de Integração com o Serviço de Conteúdo
+# Manual de integração com o serviço de conteúdo
 
 ## Objetivo
 
